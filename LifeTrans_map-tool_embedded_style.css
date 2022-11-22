@@ -2,6 +2,18 @@
     opacity: 0.4;
 }
 
+.trip-card-collection-wrapper {
+    overflow-x: hidden;
+}
+  
+.selected-routes-wrapper {
+    overflow-x: hidden;
+}
+  
+.pagination_page-button-2 {
+      border-radius: 0.6rem;
+}
+
 ::-webkit-scrollbar {
     width: 16px;
 }
